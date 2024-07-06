@@ -8,4 +8,4 @@ git config user.email
 git log.
 git branch nome-da-branch
 git checkout nome-da-branch 
-git checkout 
+git checkout -b nome-da-branch
