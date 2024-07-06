@@ -9,3 +9,4 @@ git log.
 git branch nome-da-branch
 git checkout nome-da-branch 
 git checkout -b nome-da-branch
+git murge
