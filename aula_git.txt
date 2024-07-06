@@ -2,4 +2,6 @@ Ola Mundo!
 
 eu sou o Fábio Henrique e tenho 23 anos.
 
+Moro em Belo Horizonte, Minas Gerais, atualmente eu curso Engenharia da Computação na Una.
+
 Muito prazer em conhecer vocês!

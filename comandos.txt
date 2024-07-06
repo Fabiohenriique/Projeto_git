@@ -1,7 +1,11 @@
 code .
 git init
 git add -A 
+git add .
 git commit -m "exemplo de texto"
 git config user.name
 git config user.email
-git log
+git log.
+git branch nome-da-branch
+git checkout nome-da-branch 
+git checkout 
