@@ -1,0 +1,7 @@
+code .
+git init
+git add -A 
+git commit -m "exemplo de texto"
+git config user.name
+git config user.email
+git log
